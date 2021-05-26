@@ -1,4 +1,4 @@
--- Cricao tabela Estados
+-- Cricao tabela Estados MYSQL
 
 create table estados (
 	id INT UNSIGNED NOT NULL AUTO_INCREMENT,
